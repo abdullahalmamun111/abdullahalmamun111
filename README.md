@@ -42,7 +42,7 @@
 ### GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahalmamun111&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmamun111&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=abdullahalmamun111&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalmamun111&layout=compact&theme=radical" />
 </p>
 
