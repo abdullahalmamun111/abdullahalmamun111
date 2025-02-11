@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHQea8-M-QpCg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728836775267?e=1744243200&v=beta&t=fPnMKz8EkoMyUekJsQQ0d7z_U1d7mS30FZY7TTenB34" alt="Banner Image" height="200px" width="100%" />
+  <img src="https://i.imgur.com/FdoOT2I.png" alt="Banner Image" height="300px" width="100%" />
 </p>
 
 ## Hi there, I'm Abdullah Al-Mamun 👋  
