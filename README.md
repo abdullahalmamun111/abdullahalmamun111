@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/FdoOT2I.png" alt="Banner Image" height="300px" width="100%" />
+  <img src="https://i.imgur.com/FdoOT2I.png" alt="Banner Image" style="width:100%; max-width:1200px; height:auto;" />
 </p>
+
 
 ## Hi there, I'm Abdullah Al-Mamun 👋  
 💻 I'm A Junior Web Developer | 🌍 Rangpur City, Bangladesh.  
