@@ -7,7 +7,7 @@
 💻 I'm A Junior Web Developer | 🌍 Rangpur City, Bangladesh.  
 
 🚀 Passionate about building scalable applications & exploring new technologies!  
-📩 Reach me at: almamun602767@gmail.com | 🔗 https://www.linkedin.com/in/abdullah-al-mamun-185b12317/  
+📩 Reach me at: almamun602767@gmail.com | 🔗 https://www.linkedin.com/in/abdullah-dev67/  
 
 ### About Me  
 - 🔭 I’m currently working with React and MongoDB.  
